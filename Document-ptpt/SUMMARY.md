@@ -1,12 +1,12 @@
-# Table of Contents
+# Índice
 
-- [Changelog](CHANGELOG.md)
-- [Foreword](0x01-Foreword.md)
+- [Registo de alterações](CHANGELOG.md)
+- [Prefácio](0x01-Foreword.md)
 - [Frontispiece](0x02-Frontispiece.md)
 - [Using the MASVS](0x03-Using_the_MASVS.md)
 - [Assessment and Certification](0x04-Assessment_and_Certification.md)
 
-## Security Requirements
+## Requsitos de Segurança
 
 - [V1: Architecture, Design and Threat Modeling Requirements](0x06-V1-Architecture_design_and_threat_modelling_requireme.md)
 - [V2: Data Storage and Privacy Requirements](0x07-V2-Data_Storage_and_Privacy_requirements.md)
